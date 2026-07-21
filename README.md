@@ -1,5 +1,5 @@
 ## Hi there 👋   ![](https://komarev.com/ghpvc/?username=wlq6037)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wlq6037&rank_icon=github&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=wlq6037&rank_icon=github&show_icons=true&include_all_commits=true)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=wlq6037&layout=compact&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=wlq6037&layout=compact&langs_count=4)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wlq6037&rank_icon=github&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=wlq6037&rank_icon=github&show_icons=true&include_all_commits=true)
 <!--
 **wlq6037/wlq6037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
