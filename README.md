@@ -1,6 +1,5 @@
 ## Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wlq6037&left_color=green&right_color=red)
-
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=wlq6037" /> </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 <!--
 **wlq6037/wlq6037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
