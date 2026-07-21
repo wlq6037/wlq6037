@@ -1,4 +1,5 @@
 ## Hi there 👋   ![](https://komarev.com/ghpvc/?username=wlq6037)
+![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=wlq6037)
 <!--
 **wlq6037/wlq6037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
